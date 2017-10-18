@@ -1,5 +1,5 @@
 .body{
-  background-image: url(C:/Users/sanek/Desktop/site/pictures/top.jpg);
+  background-color: #0B173B;
   background-size: 1920px 1080px;
   background-position: center;
   background-attachment: fixed;
@@ -8,6 +8,7 @@
   background-clip: border-box;
 }
 .logo {
+
     padding-top: 50px;
     margin-left: 200px;
 }
@@ -55,31 +56,25 @@
 input[type="search"] {
   -webkit-appearance: none;
 }
-.backimg{
-  padding-left: 200px;
+.topfield{
+  text-align: center;
+}
+.topfield .logo {
+margin-left: -832px;
+}
+.topfield .search{
+  margin-left: 668px;
+}
+.secondfield{
+  width: 1233px;
+  height: 800px;
+  text-align: center;
   margin-top: 100px;
+  margin-left: 327px;
+}
+.secondfield .backimg .ginatext{
+  text-align: left;
+  margin-top: -400px;
+  margin-left: 100px;
+}
 
-}
-.text{
-  margin-left: 600px;
-  margin-top: -600px;
-}
-.butan{
-  margin-left: 600px;
-}
-.firstpic{
-  margin-top: 500px;
-  padding-left: 200px;
-}
-.secondpic{
-  padding-left: 800px; 
-  margin-top: -118px;
-}
-.textf1{
-  margin-top: -400px;
-  margin-left: 20px;
-}
-.textf2{
-  margin-top: -400px;
-  margin-left: 20px;
-}
