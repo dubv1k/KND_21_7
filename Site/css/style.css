@@ -1,0 +1,44 @@
+.body{
+	margin: 0px;
+	text-align: center;
+	background-color: #272F45;
+	background-size: 1920px 1080px;
+  	background-position: center;
+ 	background-attachment: fixed;
+  	background-repeat: no-repeat;
+}
+.header{
+	margin-bottom: 15px;
+}
+
+.search{
+	margin: center;
+	margin-top: auto;
+	background: transparent;
+	color: #000;
+	border-right: none;
+	border-top: none;
+	border-left: none;
+	border-color: #63757e; 
+	margin-left: 500px;
+	font-size: 24px;
+	font-family: "HKGrotesk";
+	color: #63757e;
+}
+.search__button{
+	background: transparent;
+	color: #000;
+	border: none;
+}
+.big__banner{
+	margin:0% 13% 0% 13%;		
+}
+.h2{
+  font-size: 110px;
+  font-family: "Myriad Pro";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: unset; 
+}
